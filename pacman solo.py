@@ -29,7 +29,7 @@ STATE = "MENU"
 PAUSED = False
 
 # ================= SETTINGS =================
-FRIGHT_TIME = 120
+FRIGHT_TIME = 90
 RESPAWN_INVINCIBILITY = 90  # prevents instant double-hit
 
 # ---------------- MAP ----------------
